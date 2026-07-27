@@ -43,4 +43,4 @@ While the application is running, you can use the following keyboard controls:
 - **`c`**: Cycle through different suit color themes (Classic Blue, Gold, Green, Violet).
 - **`g`**: Toggle Glitch/Damage mode (simulates a damaged suit interface).
 
-Enjoy the suit, Tony!
+Abu Bakar Rakib
